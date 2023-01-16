@@ -1,4 +1,11 @@
-### Hi there 👋
+- 👋 Hi, I’m @tuanlam1610.
+- 👀 I’m interested in Software Engineering, especially Back-end Nodejs.
+- 🌱 I’m currently learning Software Engineering at VNU-HCMUS
+- 📫 How to reach me: (https://www.facebook.com/hatuanlam.1307/)
+- 📞 Contact me: 0902308180.
+- 📧 Email: tuanlam16102002@gmail.com
+- 🧑‍💼 Linkedin: www.linkedin.com/in/h%C3%A0-tu%E1%BA%A5n-l%C3%A2m-256817254/
+
 
 <!--
 **tuanlam1610/tuanlam1610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
